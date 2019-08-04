@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b516b45b9c7ed5b5521a9e25e509718e",
+    "revision": "6c2ecba5d958c0a86e7bcdbf7bf0332c",
     "url": "/todolist/index.html"
   },
   {
-    "revision": "afb3ed669293d07c0136",
+    "revision": "7099033d0ce52a888789",
     "url": "/todolist/static/css/main.6c6ea511.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todolist/static/js/2.d056c62e.chunk.js"
   },
   {
-    "revision": "afb3ed669293d07c0136",
-    "url": "/todolist/static/js/main.bd2a9e1e.chunk.js"
+    "revision": "7099033d0ce52a888789",
+    "url": "/todolist/static/js/main.2ec57a5f.chunk.js"
   },
   {
     "revision": "5225356577f332e6df46",
