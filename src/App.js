@@ -6,8 +6,6 @@ import Header from './components/layout/Header'
 import AddTodo from './components/AddTodo'
 import About from './components/pages/About'
 import './App.css'
-import Axios from 'axios';
-
 
 class App extends React.Component {
   state = {
